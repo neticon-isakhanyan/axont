@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'brown';
-    src: url('brown-thin-webfont.woff2') format('woff2'),
-         url('brown-thin-webfont.woff') format('woff');
+    src: url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-thin-webfont.woff2') format('woff2'),
+         url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-thin-webfont.woff') format('woff');
     font-weight: 100;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'brown';
-    src: url('brown-thin-italic-webfont.woff2') format('woff2'),
-         url('brown-thin-italic-webfont.woff') format('woff');
+    src: url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-thin-italic-webfont.woff2') format('woff2'),
+         url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-thin-italic-webfont.woff') format('woff');
     font-weight: 100;
     font-style: italic;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'brown';
-    src: url('brown-regular-webfont.woff2') format('woff2'),
-         url('brown-regular-webfont.woff') format('woff');
+    src: url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-regular-webfont.woff2') format('woff2'),
+         url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-regular-webfont.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 
@@ -39,8 +39,8 @@
 
 @font-face {
     font-family: 'brown';
-    src: url('brown-regular-italic-webfont.woff2') format('woff2'),
-         url('brown-regular-italic-webfont.woff') format('woff');
+    src: url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-regular-italic-webfont.woff2') format('woff2'),
+         url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-regular-italic-webfont.woff') format('woff');
     font-weight: 400;
     font-style: italic;
 
@@ -49,8 +49,8 @@
 
 @font-face {
     font-family: 'brown';
-    src: url('brown-light-webfont.woff2') format('woff2'),
-         url('brown-light-webfont.woff') format('woff');
+    src: url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-light-webfont.woff2') format('woff2'),
+         url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-light-webfont.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 
@@ -59,8 +59,8 @@
 
 @font-face {
     font-family: 'brownbold';
-    src: url('brown-bold-webfont.woff2') format('woff2'),
-         url('brown-bold-webfont.woff') format('woff');
+    src: url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-bold-webfont.woff2') format('woff2'),
+         url('https://github.com/neticon-isakhanyan/axont/raw/master/brown-bold-webfont.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
